@@ -136,8 +136,8 @@ youtube: https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_im
 course notes: http://sli.ics.uci.edu/Classes-CS178-Notes/Classes-CS178-Notes  <br />
 
 34. Machine Learning CS-433  <br />
-homepage: http://mlo.epfl.ch/page-136795.html  <br />
-github: https://github.com/epfml/ML_course  <br />
+ homepage: http://mlo.epfl.ch/page-136795.html  <br />
+ github: https://github.com/epfml/ML_course  <br />
 
 35. Machine Learning Introduction: A machine learning course using Python, Jupyter Notebooks, and OpenML  <br />
 https://github.com/joaquinvanschoren/ML-course  <br />
@@ -165,12 +165,12 @@ homepage: http://www.mit.edu/~9.520/fall15/index.html  <br />
 video: https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O  <br />
 
 5. (REGML 2016) Regularization Methods for Machine Learning  <br />
-homepage: http://lcsl.mit.edu/courses/regml/regml2016/  <br />
-video: https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ20Gf_KbLFnPWjFTvvRwCO  <br />
+ homepage: http://lcsl.mit.edu/courses/regml/regml2016/  <br />
+ video: https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ20Gf_KbLFnPWjFTvvRwCO  <br />
 
 6. Convex Optimization: Spring 2015  <br />
-homepage: http://www.stat.cmu.edu/~ryantibs/convexopt-S15/  <br />
-video: https://www.youtube.com/playlist?list=PLjbUi5mgii6BZBhJ9nW7eydgycyCOYeZ6  <br />
+ homepage: http://www.stat.cmu.edu/~ryantibs/convexopt-S15/  <br />
+ video: https://www.youtube.com/playlist?list=PLjbUi5mgii6BZBhJ9nW7eydgycyCOYeZ6  <br />
   
 7. CMU: Probabilistic Graphical Models (10-708, Spring 2014) <br />
 instructor: Eric Xing  <br />
