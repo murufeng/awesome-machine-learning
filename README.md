@@ -196,4 +196,30 @@ http://www.cs.cmu.edu/~epxing/Class/10708-16/lecture.html <br />
 
 
 
+## Resources
+* [《Brief History of Machine Learning》](http://www.erogol.com/brief-history-machine-learning/)
+
+介绍:这是一篇介绍机器学习历史的文章，介绍很全面，从感知机、神经网络、决策树、SVM、Adaboost到随机森林、Deep Learning.
+
+* [《Deep Learning in Neural Networks: An Overview》](http://www.idsia.ch/~juergen/DeepLearning15May2014.pdf)
+
+介绍:这是瑞士人工智能实验室Jurgen Schmidhuber写的最新版本《神经网络与深度学习综述》本综述的特点是以时间排序，从1940年开始讲起，到60-80年代，80-90年代，一直讲到2000年后及最近几年的进展。涵盖了deep learning里各种tricks，引用非常全面.
+
+* [《A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library》](http://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)
+
+介绍:这是一份python机器学习库,如果您是一位python工程师而且想深入的学习机器学习.那么这篇文章或许能够帮助到你.
+
+* [《Machine Learning is Fun!》](https://medium.com/code-poet/80ea3ec3c471)
+
+介绍:如果你还不知道什么是机器学习，或则是刚刚学习感觉到很枯燥乏味。那么推荐一读。这篇文章已经被翻译成中文,如果有兴趣可以移步http://blog.jobbole.com/67616/
+* [《The LION Way: Machine Learning plus Intelligent Optimization》](http://vdisk.weibo.com/s/ayG13we2vxyKl)
+
+ 介绍:<机器学习与优化>这是一本机器学习的小册子, 短短300多页道尽机器学习的方方面面. 图文并茂, 生动易懂, 没有一坨坨公式的烦恼. 适合新手入门打基础, 也适合老手温故而知新. 比起MLAPP/PRML等大部头, 也许这本你更需要!具体内容推荐阅读:http://intelligent-optimization.org/LIONbook/ 
+
+* [《深度学习与统计学习理论》](http://php-52cs.rhcloud.com/?cat=7)
+
+介绍:作者是来自百度，不过他本人已经在2014年4月份申请离职了。但是这篇文章很不错如果你不知道深度学习与支持向量机/统计学习理论有什么联系？那么应该立即看看这篇文章.
+* [《Data Science with R》](http://vdisk.weibo.com/s/ayG13we2vx5qg)
+
+介绍:这是一本由雪城大学新编的第二版《数据科学入门》教材：偏实用型，浅显易懂，适合想学习R语言的同学选读。
 
