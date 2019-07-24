@@ -223,3 +223,48 @@ http://www.cs.cmu.edu/~epxing/Class/10708-16/lecture.html <br />
 
 介绍:这是一本由雪城大学新编的第二版《数据科学入门》教材：偏实用型，浅显易懂，适合想学习R语言的同学选读。
 
+* [《An Introduction to Statistical Learning with Applications in R》](http://www-bcf.usc.edu/~gareth/ISL/)
+
+介绍：这是一本斯坦福统计学著名教授Trevor Hastie和Robert Tibshirani的新书，并且在2014年一月已经开课：https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about
+
+* [Best Machine Learning Resources for Getting Started](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/)
+
+介绍：机器学习最佳入门学习资料汇总是专为机器学习初学者推荐的优质学习资源，帮助初学者快速入门。而且这篇文章的介绍已经被翻译成[中文版](http://article.yeeyan.org/view/22139/410514)。如果你不怎么熟悉，那么我建议你先看一看中文的介绍。
+
+* [My deep learning reading list](http://blog.sina.com.cn/s/blog_bda0d2f10101fpp4.html)
+
+介绍:主要是顺着Bengio的PAMI review的文章找出来的。包括几本综述文章，将近100篇论文，各位山头们的Presentation。全部都可以在google上找到。
+
+* [Cross-Language Information Retrieval](http://www.morganclaypool.com/doi/abs/10.2200/S00266ED1V01Y201005HLT008?journalCode=hlt)
+
+介绍：这是一本书籍，主要介绍的是跨语言信息检索方面的知识。理论很多
+
+* [探索推荐引擎内部的秘密，第 1 部分: 推荐引擎初探](http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy1/index.html?ca=drs-)
+
+介绍:本文共有三个系列，作者是来自IBM的工程师。它主要介绍了推荐引擎相关算法，并帮助读者高效的实现这些算法。 [探索推荐引擎内部的秘密，第 2 部分: 深度推荐引擎相关算法 - 协同过滤](http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy2/index.html?ca=drs-),[探索推荐引擎内部的秘密，第 3 部分: 深度推荐引擎相关算法 - 聚类](http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy3/index.html?ca=drs-)
+
+
+* [《Advice for students of machine learning》](http://mimno.infosci.cornell.edu/b/articles/ml-learn/)
+
+介绍：康奈尔大学信息科学系助理教授David Mimno写的《对机器学习初学者的一点建议》， 写的挺实际，强调实践与理论结合，最后还引用了冯 • 诺依曼的名言: "Young man, in mathematics you don't understand things. You just get used to them."
+
+* [分布式并行处理的数据](http://web.stanford.edu/group/pdplab/pdphandbook/)
+
+介绍：这是一本关于分布式并行处理的数据《Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises》,作者是斯坦福的James L. McClelland。着重介绍了各种神级网络算法的分布式实现,做Distributed Deep Learning 的童鞋可以参考下
+
+* [《机器学习经典书籍》](http://suanfazu.com/discussion/109/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D)
+
+介绍：总结了机器学习的经典书籍，包括数学基础和算法理论的书籍，可做为入门参考书单。
+
+* [《16 Free eBooks On Machine Learning》](http://efytimes.com/e1/fullnews.asp?edid=121516)
+
+介绍:16本机器学习的电子书，可以下载下来在pad，手机上面任意时刻去阅读。不多我建议你看完一本再下载一本。
+
+* [《A Large set of Machine Learning Resources for Beginners to Mavens》](http://www.erogol.com/large-set-machine-learning-resources-beginners-mavens/)
+
+介绍:标题很大，从新手到专家。不过看完上面所有资料。肯定是专家了
+
+* [《机器学习最佳入门学习资料汇总》](http://article.yeeyan.org/view/22139/410514)
+
+介绍：入门的书真的很多，而且我已经帮你找齐了。
+
