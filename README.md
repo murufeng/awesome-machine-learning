@@ -3,11 +3,11 @@
 ## 目录
 
 ### Claassic Machine Learning Courses
-1. Courses on machine learning
-http://homepages.inf.ed.ac.uk/rbf/IAPR/researchers/MLPAGES/mlcourses.htm
+1. Courses on machine learning <br />
+http://homepages.inf.ed.ac.uk/rbf/IAPR/researchers/MLPAGES/mlcourses.htm <br />
 
-2. CSC2535 – Spring 2013 Advanced Machine Learning
-instructor: by Hinton, University of Toronto
+2. CSC2535 – Spring 2013 Advanced Machine Learning <br />
+instructor: by Hinton, University of Toronto <br />
 homepage: http://www.cs.toronto.edu/~hinton/csc2535/
 
 3. Stanford CME 323: Distributed Algorithms and Optimization
