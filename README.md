@@ -131,13 +131,13 @@ materials: http://cs229.stanford.edu/materials.html  <br />
 
 33. CS273a: Introduction to Machine Learning <br />
 
-homepage: http://sli.ics.uci.edu/Classes/2015W-273a  <br />
-youtube: https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw  <br />
-course notes: http://sli.ics.uci.edu/Classes-CS178-Notes/Classes-CS178-Notes  <br />
+ homepage: http://sli.ics.uci.edu/Classes/2015W-273a  <br />
+ youtube: https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw  <br />
+ course notes: http://sli.ics.uci.edu/Classes-CS178-Notes/Classes-CS178-Notes  <br />
 
 34. Machine Learning CS-433  <br />
- homepage: http://mlo.epfl.ch/page-136795.html  <br />
- github: https://github.com/epfml/ML_course  <br />
+  homepage: http://mlo.epfl.ch/page-136795.html  <br />
+  github: https://github.com/epfml/ML_course  <br />
 
 35. Machine Learning Introduction: A machine learning course using Python, Jupyter Notebooks, and OpenML  <br />
 https://github.com/joaquinvanschoren/ML-course  <br />
