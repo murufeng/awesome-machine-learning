@@ -279,3 +279,7 @@ http://www.cs.cmu.edu/~epxing/Class/10708-16/lecture.html <br />
 * [《机器学习常见算法分类汇总》](http://www.ctocio.com/hotnews/15919.html)
 
 介绍: 机器学习无疑是当前数据分析领域的一个热点内容。很多人在平时的工作中都或多或少会用到机器学习的算法。本文为您总结一下常见的机器学习算法，以供您在工作和学习中参考.
+
+
+#### 时间序列预测
+* [资源列表合集](https://github.com/murufeng/awesome-machine-learning/tree/master/Time_series)
